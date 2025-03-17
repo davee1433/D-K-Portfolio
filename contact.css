@@ -1,0 +1,84 @@
+.contact {
+    background-color: #1a2b3c;
+    padding: 40px 10%;
+    color: #ededed;
+}
+
+.contact-content h1 {
+    font-size: 36px;
+    color: #00abf0;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.contact-content p {
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    font-size: 16px;
+    margin-bottom: 8px;
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 10px;
+    border: 2px solid #00abf0;
+    border-radius: 8px;
+    font-size: 16px;
+    color: #081b29;
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+    outline: none;
+    border-color: #00abf0;
+}
+
+.form-group button {
+    background-color: #00abf0;
+    color: #081b29;
+    border: 2px solid #00abf0;
+    border-radius: 8px;
+    padding: 12px 20px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.form-group button:hover {
+    background-color: transparent;
+    color: #00abf0;
+}
+
+.alt-contact-info h2 {
+    font-size: 24px;
+    color: #00abf0;
+    margin-top: 40px;
+    margin-bottom: 15px;
+}
+
+.alt-contact-info ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.alt-contact-info ul li {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.alt-contact-info ul li a {
+    color: #00abf0;
+    text-decoration: none;
+}
+
+.alt-contact-info ul li a:hover {
+    color: #ffd700;
+}

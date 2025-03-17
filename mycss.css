@@ -127,3 +127,11 @@ main {
 footer p {
     padding-top: 210px;
 }
+
+.clickable-img {
+
+    transition: transform 0.3s ease-in-out;
+}
+.clickable-img:hover {
+    transform: translateY(-5px) scale(1.05);
+}

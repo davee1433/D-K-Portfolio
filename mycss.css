@@ -129,7 +129,6 @@ footer p {
 }
 
 .clickable-img {
-
     transition: transform 0.3s ease-in-out;
 }
 .clickable-img:hover {
